@@ -9,10 +9,8 @@
 
 ### Навыки 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/ danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https:// www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored .svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" ><img src="https://raw.
-githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> </p>
+<img src="https://img.shields.io/badge/Python-B0E0E6?style=for-the-badge&logo=python&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-98FB98?style=for-the-badge&logo=mysql&logoColor=black"/> <img src="https://img.shields.io/badge/PostgreSQL-B0E0E6?style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/Tableau-98FB98?style=for-the-badge&logo=tableau&logoColor=black"/>
+
                     
 ### 🤝 Социальные сети:
 
