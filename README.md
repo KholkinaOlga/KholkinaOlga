@@ -4,7 +4,7 @@
 
 В марте 2023 года я завершила обучение в Яндекс.Практикум по направлению "Аналитик данных" и продолжаю повышать свой уровень знаний. 
 * 🌍 Я живу в Москве 
-:mailbox: Вы можете связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KholkinaOlga-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgakholkina_89) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:olgaholkina89@yandex.ru)
+* :mailbox: Вы можете связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-KholkinaOlga-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/olgakholkina_89) [![Yandex Badge](https://img.shields.io/badge/-Yandex-red?style=flat&logo=Yandex&logoColor=white)](mailto:olgaholkina89@yandex.ru)
 * 🧠 Я изучаю Интерактивный тренажер по SQL
 
 ### Навыки 
